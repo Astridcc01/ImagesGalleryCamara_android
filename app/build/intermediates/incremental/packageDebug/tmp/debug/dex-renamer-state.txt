@@ -1,0 +1,4 @@
+#Thu Nov 10 12:42:32 CET 2022
+base.0=C\:\\Users\\Campus FP\\Desktop\\kotlin\\ImagesOfGalleryCameraKotlin\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
